@@ -6,3 +6,4 @@ It contains:
 - CODE_OF_CONDUCT.md
 - CONTRIBUTING.md
 - simple-interest.sh (Bash script for simple interest calculation)
+Update: This line was added to demonstrate pull request and merge for Coursera assignment.
